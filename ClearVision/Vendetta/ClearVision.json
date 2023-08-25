@@ -1,6 +1,6 @@
 {
-    "name": "ClearVision 1.2.4",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "name": "ClearVision 1.2.4 (DIY)",
+    "description": "Clear Vision paints serenity across the canvas of our Discord realm. (Iron Man)",
 	"authors": [
       {
          "name": "Taki_Shiwa",
@@ -447,7 +447,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1121000274593591399/1142036406798123048/WPh7qA0x.jpg"
+        "url": "https://cdn.discordapp.com/attachments/1144588308895252674/1144599612355780678/desktop-wallpaper-amoled-archives--traxzee-iron-man-iron-man-marvel-iron-man-phone-thumbnail.jpg"
     },
     "plus": {
         "version": 0,
