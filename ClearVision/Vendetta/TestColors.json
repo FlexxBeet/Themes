@@ -1,1 +1,9 @@
-
+{
+    "name": "Color Tester",
+    "description": "Figure out what thing is getting colored",
+	"authors": [
+      {
+         "name": "Flexx Beet",
+         "id": "712110049530740746"
+      }
+    ]
