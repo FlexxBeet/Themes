@@ -7,6 +7,10 @@
          "id": "712110049530740746"
       }
     ],
-	"semanticColors": {
-		
-	}
+    "semanticColors": {
+	"CHANNELS_DEFAULT": [
+            "#575a68",
+            "#575a68",
+            "#575a68"			
+        ],
+   }
